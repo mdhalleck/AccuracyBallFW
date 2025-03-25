@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+    
+    
+  <CurrentConfigs><Project>SensorDemoProject/SensDemo_F4xx_NUCLEO</Project><Project>SensorDemoProject/SensDemo_L053R8_NUCLEO</Project></CurrentConfigs><CurrentProj>SensorDemoProject</CurrentProj><OverviewSelected>0</OverviewSelected></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>273</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Select-Ambiguous-Definitions</Factory></Window><Window><Factory>Find-in-Files</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1395</ColumnWidth1><ColumnWidth2>372</ColumnWidth2><ColumnWidth3>93</ColumnWidth3></Build>
+      <TerminalIO/>
+      <Select-Ambiguous-Definitions>
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Find-in-Files</Factory></Window></Windows></PreferedWindows><ColumnWidth0>664</ColumnWidth0><ColumnWidth1>94</ColumnWidth1><ColumnWidth2>1138</ColumnWidth2></Select-Ambiguous-Definitions>
+      <Find-in-Files>
+        
+        
+        
+        
+      <ColumnWidth3>379</ColumnWidth3><ColumnWidth0>569</ColumnWidth0><ColumnWidth1>94</ColumnWidth1><ColumnWidth2>854</ColumnWidth2></Find-in-Files>
+    <PROJECT_GUI_CALL_GRAPH><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><col-names><item>File</item><item>Function</item><item>Line</item></col-names><col-widths><item>200</item><item>700</item><item>100</item></col-widths></PROJECT_GUI_CALL_GRAPH><Breakpoints><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><col-names><item>Breakpoint</item><item>_I0</item></col-names><col-widths><item>500</item><item>35</item></col-widths></Breakpoints><Debug-Log><ColumnWidth0>23</ColumnWidth0><ColumnWidth1>1858</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-10576-16744</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>SensorDemoProject</ExpandedNode><ExpandedNode>SensorDemoProject/Application</ExpandedNode><ExpandedNode>SensorDemoProject/Application/EWARM</ExpandedNode><ExpandedNode>SensorDemoProject/Application/User</ExpandedNode><ExpandedNode>SensorDemoProject/Application/User/main.c</ExpandedNode><ExpandedNode>SensorDemoProject/Drivers</ExpandedNode><ExpandedNode>SensorDemoProject/Drivers/BSP</ExpandedNode><ExpandedNode>SensorDemoProject/Drivers/BSP/Components</ExpandedNode><ExpandedNode>SensorDemoProject/Drivers/BSP/STM32F4xx_NUCLEO</ExpandedNode><ExpandedNode>SensorDemoProject/Drivers/BSP/X-NUCLEO-IDB04A1</ExpandedNode><ExpandedNode>SensorDemoProject/Drivers/BSP/X_NUCLEO_IKS01A1</ExpandedNode><ExpandedNode>SensorDemoProject/Drivers/CMSIS</ExpandedNode><ExpandedNode>SensorDemoProject/Drivers/STM32F4xx_HAL_Driver</ExpandedNode><ExpandedNode>SensorDemoProject/Drivers/STM32L0xx_HAL_Driver</ExpandedNode><ExpandedNode>SensorDemoProject/Middlewares</ExpandedNode><ExpandedNode>SensorDemoProject/Middlewares/STM32_BlueNRG</ExpandedNode><ExpandedNode>SensorDemoProject/Middlewares/STM32_BlueNRG/HCI</ExpandedNode><ExpandedNode>SensorDemoProject/Middlewares/STM32_BlueNRG/HCI/controller</ExpandedNode><ExpandedNode>SensorDemoProject/Middlewares/STM32_BlueNRG/Interface</ExpandedNode><ExpandedNode>SensorDemoProject/Middlewares/STM32_BlueNRG/Utils</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          
+          
+          <Tab>
+            <Identity>TabID-25245-14181</Identity>
+            <TabName>Find in Files</TabName>
+            <Factory>Find-in-Files</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-23275-1142</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-30052-5007</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Src\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>142</YPos2><SelStart2>5830</SelStart2><SelEnd2>5830</SelEnd2></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Drivers\BSP\X-NUCLEO-IDB04A1\stm32_bluenrg_ble.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>190</YPos2><SelStart2>11917</SelStart2><SelEnd2>11917</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Src\sensor_service.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>254</YPos2><SelStart2>20321</SelStart2><SelEnd2>20321</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Drivers\CMSIS\Device\ST\STM32L0xx\Source\Templates\system_stm32l0xx.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>168</YPos2><SelStart2>6631</SelStart2><SelEnd2>6631</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_i2c.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>3560</YPos2><SelStart2>104895</SelStart2><SelEnd2>104895</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>303</YPos2><SelStart2>13267</SelStart2><SelEnd2>13267</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Inc\main.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>87</YPos2><SelStart2>4683</SelStart2><SelEnd2>4683</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0800A2D8><key>iaridepm.enu1</key></Toolbar-0800A2D8></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>720</Bottom><Right>364</Right><x>-2</x><y>-2</y><xscreen>111</xscreen><yscreen>113</yscreen><sizeHorzCX>57813</sizeHorzCX><sizeHorzCY>113340</sizeHorzCY><sizeVertCX>190625</sizeVertCX><sizeVertCY>724173</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>232</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>234</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>234704</sizeHorzCY><sizeVertCX>57813</sizeVertCX><sizeVertCY>113340</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
